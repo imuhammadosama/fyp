@@ -1,0 +1,6 @@
+{
+	"jwtPrivateKey": "mySecureKey",
+	"db": "mongodb+srv://comfort:CkWrlZloeo5qiRHU@comfort-zone-cluster-2o6ke.mongodb.net/comfortzone?retryWrites=true&w=majority",
+	"port": "5000",
+	"requiresAuth": false
+}
